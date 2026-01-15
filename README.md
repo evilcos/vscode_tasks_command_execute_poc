@@ -1,2 +1,3 @@
-# vscode_tasks_command_execute_poc
-Arbitrary command execution on Open Folder via .vscode/tasks.json
+just a test by slowmist
+
+@evilcos @SlowMist_Team
