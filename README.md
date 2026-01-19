@@ -15,7 +15,7 @@ Detail: https://code.visualstudio.com/docs/debugtest/tasks
 
 ## Hardening steps (recommended):
 
-- Press Ctrl + Shift + P
+- Press Ctrl + Shift + P (Mac: ⇧ Shift + ⌘ Command + P)
 - Open User Settings → Features → Allow Automatic Tasks → set it to Off
 - If Ctrl + Shift + P opens User Settings (JSON) directly, just set: task.allowAutomaticTasks: "off"
 
@@ -27,4 +27,5 @@ If you’re using Cursor, you can also enable:
 With this enabled, the first time you open a new folder you’ll get a Workspace Trust warning. And even if you choose to trust the workspace, commands hidden in .vscode/tasks.json will not auto-run anymore once Allow Automatic Tasks is turned off.
 
 [@evilcos](https://x.com/evilcos/) [@SlowMist_Team](https://x.com/SlowMist_Team)
+
 
